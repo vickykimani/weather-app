@@ -111,7 +111,7 @@ body {
 }
 
 .weather-details .humidity,
-.weather-box .wind {
+.weather-details .wind {
     display: flex;
     align-items: center;
     width: 50%;
