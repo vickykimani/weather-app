@@ -25,3 +25,11 @@ body {
     font-family: 'Roboto', sans-serif;
     transition: 0.6 ease-out;
 }
+
+.search-box {
+    width: 100%;
+    height: min-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
